@@ -1,6 +1,8 @@
+<!--
 ---
 layout: default
 ---
+-->
 
 ### Preview Page Types
 [Listing Pages](samples/listings-page)
